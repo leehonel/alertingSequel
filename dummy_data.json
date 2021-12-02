@@ -1,0 +1,56 @@
+[
+    {
+      "Day": "Monday",
+      "courseCode": "SCCI/2017",
+      "Unit": "Programming Languages",
+      "Lecturer": "Zeynep Orhan / Zerina Masetic / Enis Gegic",
+      "place": "ITLab216 | ITLab316 | Room 215",
+      "startTime": 9,
+      "endTime": 11
+    },
+    {
+      "Day": "Monday",
+      "courseCode": "SCCI/2017",
+      "Unit": "Data Structures",
+      "Lecturer": "Amar Saric / Becir Isakovic",
+      "place": "ITLab216",
+      "startTime": 11,
+      "endTime": 12
+    },
+    {
+      "Day": "Monday",
+      "courseCode": "SCCI/2017",
+      "Unit": "General Physics II",
+      "Lecturer": "Serkan Balyimez",
+      "place": "Room 215",
+      "startTime": 13,
+      "endTime": 15
+    },
+    {
+        "Day": "Monday",
+        "courseCode": "SCCI/2018",
+        "Unit": "Programming Languages",
+        "Lecturer": "Zeynep Orhan / Zerina Masetic / Enis Gegic",
+        "place": "ITLab216 | ITLab316 | Room 215",
+        "startTime": 9,
+        "endTime": 11
+      },
+      {
+        "Day": "Monday",
+        "courseCode": "SCCI/2018",
+        "Unit": "Data Structures",
+        "Lecturer": "Amar Saric / Becir Isakovic",
+        "place": "ITLab216",
+        "startTime": 11,
+        "endTime": 12
+      },
+      {
+        "Day": "Monday",
+        "courseCode": "SCCI/2018",
+        "Unit": "General Physics II",
+        "Lecturer": "Serkan Balyimez",
+        "place": "Room 215",
+        "startTime": 13,
+        "endTime": 15
+      }
+]

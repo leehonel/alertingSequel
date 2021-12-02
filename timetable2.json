@@ -1,0 +1,212 @@
+{
+    "data": {
+    
+        "SCII/2018": [
+              {
+                  "day": "monday",
+                  "time": "7-9",
+                  "code": "IBL1 2305",
+                  "title": "S/W DEV LAB",
+                  "lecturer": "Ngugi",
+                  "room": "D11"
+                  
+              },
+              
+              {
+                  "day": "monday",
+                "time":"9-11",
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              },
+              {
+                  "day": "monday",
+                "time":"11-1", 
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                 
+              },
+              {"day": "monday",
+                "time":"2-4",
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              },
+              {"day": "monday",
+                "time":"4-6",
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              },
+            
+          
+          {
+            "day": "tuesday",
+            "time": "7-9", 
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              },
+              {
+                  "day": "tuesday",
+                "time":"9-11", 
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              },
+              {"day": "tuesday",
+                "time":"11-1", 
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              },
+              {"day": "tuesday",
+                "time":"2-4", 
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              },
+              {"day": "tuesday",
+                "time":"4-6", 
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              }
+            ],
+          
+  
+        "SCCI/2018": [
+         
+          {
+            "day": "thursday",
+            "time": "7-9", 
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              },
+              {"day": "thursday",
+                "time":"9-11",
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              },
+              {"day": "thursday",
+                "time":"11-1",
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              },
+              {"day": "monday",
+                "time":"2-4",
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              }
+              
+            ],
+         
+          
+  
+        "SCCJ/2018": [
+          {
+            "day": "monday",
+            "time":
+                "7-9",
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                 
+              },
+              {"day": "monday",
+                "time":"9-11",
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                 
+              },
+              {"day": "wednesday",
+                "time":"11-1",
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                
+              },
+              {"day": "monday",
+                "time":"2-4",
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              },
+              {"day": "tuesday",
+                "time":"4-6",
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                
+              },
+            {
+            "day": "friday",
+            "time": 
+                "7-9",
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              },
+              {"day": "friday",
+                "time":"9-11",
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              },
+              {"day": "friday",
+                "time":"11-1",
+                    "code": "IBL1 2305",
+                    "title": "S/W DEV LAB",
+                    "lecturer": "ISHMAEL",
+                    "room": "L36"
+                  
+              }
+              
+            ]
+         
+       
+      }
+}
+  
+  
